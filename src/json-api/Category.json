@@ -1,0 +1,32 @@
+[
+    {
+        "id":"Cat-key-1",
+        "icon":"fa fa-home",
+        "title":"Lifystyle",
+        "description":"Hi this is lifystyle"
+    },
+    {
+        "id":"Cat-key-2",
+        "icon":"fa fa-edit",
+        "title":"Marketing",
+        "description":"Hi this is Marketing"
+    },
+    {
+        "id":"Cat-key-3",
+        "icon":"fa fa-copy",
+        "title":"Art & Business",
+        "description":"Hi this is Art and Business"
+    },
+    {
+        "id":"Cat-key-4",
+        "icon":"fa fa-gear",
+        "title":"Technology",
+        "description":"Hi this is Techonlogy"
+    },
+    {
+        "id":"Cat-key-5",
+        "icon":"fa fa-dashboard",
+        "title":"Programming",
+        "description":"Hi this is Programing"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "id":"menu-1",
+        "label":"Home",
+        "url":"/",
+        "dropdown":false,
+        "button":false
+    },
+    {
+        "id":"menu-2",
+        "label":"Blog",
+        "url":"/blog",
+        "dropdown":false,
+        "button":false
+    },
+    {
+        "id":"menu-3",
+        "label":"Courses",
+        "url":"/",
+        "dropdown":true,
+        "button":false,
+        "dropdownMenu":[
+            {
+                "id":"menu-4",
+                "label":"Softwate Engineering",
+                "url":"/softwate-engineering",
+                "button":false
+            },
+            {
+                "id":"menu-5",
+                "label":"App Development",
+                "url":"/app-development",
+                "button":true
+            },
+            {
+                "id":"menu-6",
+                "label":"Robotics",
+                "url":"/robotics",
+                "button":false
+            }
+        ]
+    },
+    {
+        "id":"menu-7",
+        "label":"Register Now",
+        "url":"/blog",
+        "dropdown":false,
+        "button":true
+    }
+    
+]

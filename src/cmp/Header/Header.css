@@ -1,0 +1,28 @@
+.nav-link,.navbar-brand{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 17px;
+}
+
+.navbar-brand{
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.arrow-up{
+    font-size: 40px !important;
+    position: absolute;
+    top:-27px;
+    left:20px;
+    color:aqua;
+}
+
+.video-box{
+    height:100vh;
+    overflow-y:hidden;
+}
+
+.sticked{
+    background:'deeppink' !important;
+    transition:0.5s !important;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2) !important;
+}
